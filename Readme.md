@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi 👋! My name is Youssef, I'm a Software Engineer from Egypt.<br>I specialize in .NET and C#, with experience in ASP.NET, Entity Framework, React, and databases.<br>I focus on clean architecture, SOLID principles, and scalable backend systems, and I’m continuously improving my full-stack and system design skills.
+Hi 👋! I'm Youssef, a Software Engineer based in Egypt.
+I specialize in .NET and C#, with hands-on experience in ASP.NET, Entity Framework, React, and database design.
+I’m passionate about building scalable, maintainable solutions using clean architecture and SOLID principles. I focus on developing robust backend systems and continuously work on improving my full-stack development and system design skills.
 
 
 ## 🌐 Socials:
